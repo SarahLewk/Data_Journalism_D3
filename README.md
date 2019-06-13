@@ -1,8 +1,9 @@
 # Data_Journalism_D3
 Data Journalism and D3
 
-![smoking kittens](https://user-images.githubusercontent.com/46179696/59244346-e4cef800-8bc8-11e9-8eef-24eba52a30ad.jpg)
 
-![D3_Chart](https://user-images.githubusercontent.com/46179696/59243953-58700580-8bc7-11e9-9c2b-3074a56ee30b.png)
+![Money_bag](https://user-images.githubusercontent.com/46179696/59470206-e2001d00-8deb-11e9-9746-67f51be2314f.jpg)
 
-![Analysis](https://user-images.githubusercontent.com/46179696/59243960-5e65e680-8bc7-11e9-81b0-6625910b243e.png)
+![D3_Chart](https://user-images.githubusercontent.com/46179696/59470209-e593a400-8deb-11e9-8b98-1a183a09434a.png)
+
+![Analysis](https://user-images.githubusercontent.com/46179696/59470225-efb5a280-8deb-11e9-947d-f3475999143a.png)
