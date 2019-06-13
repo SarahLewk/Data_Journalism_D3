@@ -1,6 +1,8 @@
 # Data_Journalism_D3
 Data Journalism and D3
 
+https://sarahlewk.github.io/Data_Journalism_D3/
+
 
 ![Money_bag](https://user-images.githubusercontent.com/46179696/59470206-e2001d00-8deb-11e9-9746-67f51be2314f.jpg)
 
