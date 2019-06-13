@@ -230,7 +230,7 @@ d3.csv("./assets/data/data.csv").then(function(censusData) {
         .attr("x", 0)
         .attr("y", 20)
         .attr("value", "poverty")
-        .text("In Poverty (%)");
+        .text("Poverty (%)");
 
     var ageLabel = xLabelsGroup.append("text")
         .classed("aText", true)
@@ -270,7 +270,7 @@ d3.csv("./assets/data/data.csv").then(function(censusData) {
         .attr("dy", "1em")
         .attr("transform", "rotate(-90)")
         .attr("value", "smokes")
-        .text("Smokes (%)");
+        .text("Smokers (%)");
 
     var obesityLabel = yLabelsGroup.append("text")
         .classed("aText", true)
